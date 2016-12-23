@@ -1,0 +1,1 @@
+# EC2_Instance_With_Ephemeral_Drives.template
